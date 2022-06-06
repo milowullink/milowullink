@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @milowullink
+- 👀 I’m interested in mathematics and data science.
+- 🌱 I’m currently learning Python.
+- 📫 You can e-mail me: milo@wukke.nl
